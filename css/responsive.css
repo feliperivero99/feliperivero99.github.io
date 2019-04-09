@@ -1,0 +1,18 @@
+
+
+
+
+@media screen and (min-width: 770px) {
+	i.fas.fa-dragon.fa-2x{
+		    margin-top: -0.2em;
+	}	
+  
+}
+
+
+@media screen and (max-width: 270px) {
+	section h2.section-heading {
+    font-size: 25px; 
+}
+  
+}
