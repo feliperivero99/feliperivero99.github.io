@@ -29,9 +29,21 @@ function myspanish() {
 	$("#secthisto2").text("Mi evolucion");
 	$("#secthisto3").text("Mis estudios: Ingenieria en Informatica");
 	$("#secthisto4").text("Inicie mis estudios en la Universidad Nacional Experimental del Tachira, cursando la carrera de Ingenieria en Informatica. Donde aprendi los  fundamentos de la ciencia de la computación, la ingeniería electrónica y la ingeniería de software. ");
+	$("#secthisto5").text("Primer empleo:  ERPcontable");
+	$("#secthisto6").text("Durante el 2012 obtuve mi primer empleo donde ejerci el papel de desarrollador de aplicaciones utilzando la herramienta Velneo. Tambien ejerci el papel de desarrollador web, helpdesk y soporte ");
+	$("#secthisto7").text("Tiempos de cambios: Can Polit");
+	$("#secthisto8").text("A finales de 2014 decidir cambiar de perfil laboral, enfocando a trabajar en desarrollo web utilizando herramientas como Ruby on Rails, Bootstrap, etc.");
+	$("#secthisto9").text("Evolucionando: Agropezim");
+	$("#secthisto10").text("Empece  una nueva aventura,  ejerciendo mas el aspecto gerencial de la carrera al encargarme de supervisar la implementacion de la herramienta  Odoo dentro de la organización. Ademas empece adentrarme en el mundo de la Data Sciences");
+	$("#secthisto11").text("La Actualidad: Ubiot");
+	$("#secthisto12").text("Ubiot Siendo una subsidiaria de Agropezim,  mi perfil ha estado enfocado exclusivamente en el trabajo como cientifico de datos (data scientist). Ocasionalmente participando en proyectos de desarrollo web");
+	$("#secthisto13").text("Ubiot");
+	$("#secthisto14").text("Empece  una nueva aventura,  ejerciendo mas el aspecto gerencial de la carrera al encargarme de supervisar la implementacion de la herramienta  Odoo dentro de la organización. Ademas empece adentrarme en el mundo de la Data Sciences");
+	$("#secthisto15").text("Desarrollo Web - Wordpress");
+	$("#secthisto16").text("Dedicado al desarrollo web con wordpress y ruby on rails freelance realizando mas de 6 proyectos durante todo el año.  Fui responsable del desarrollo completo y de cada fase del proyecto de cada pagina web en los cuales participe");
+	$("#secthisto17").text("Se parte de mi Historia");
 	
-	
-}
+	}
 
 function myenglish() {
 
@@ -61,6 +73,19 @@ function myenglish() {
 	$("#secthisto2").text("My Evolution");
 	$("#secthisto3").text("My Studies: Software Engineering");
 	$("#secthisto4").text("My academics studies started in the University of Tachira, The career I choose to study was Software engineering where I learned  the fundamentals of Computer Science, Web development, Coding and software Development");
+	$("#secthisto5").text("My First Job:  ERPcontable");
+	$("#secthisto6").text("During 2012 I worked in my first Job as Application Developer using the spanish framework Velneo.  During those days I also work as web developer improving the company's website, I did helpdesk and client support");
+	$("#secthisto7").text("My second job: Can Polit");
+	$("#secthisto8").text("In 2014 I change jobs and became full web developer working in several websites using Ruby on Rails, Bootstrap, Responsive desing and more");
+	$("#secthisto9").text("Next step: Agropezim");
+	$("#secthisto10").text("I started a  new adventure when I was hired to supervised the deployment of Odoo ERP in Agropezim.  And became junior engineering on the Data Science projects of the company");
+    $("#secthisto11").text("Ubiot");
+	$("#secthisto12").text("During this year I invested most of my time working in data science projects. Sometimes I lead web development inside the company");
+	$("#secthisto13").text("Ubiot");	
+	$("#secthisto14").text("Once again became a full web developer working with wordpress. Leading the development of Rentadvisor's website with the purpose of renting houses in Chile");
+	$("#secthisto15").text("Web Development - Wordpress");
+	$("#secthisto16").text("Dedicated to web development with wordpress and ruby ​​on rails freelance making more than 6 projects throughout the year. I was responsible for the complete development and each phase of the project of each web page in which I participated");
+	$("#secthisto17").text("Be part of my history");
 	
 
 }
