@@ -46,6 +46,12 @@ function myspanish() {
 	$("#metodo2").text("Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles. Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos, caracterizado por: Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto. Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados. Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada");
 	$("#metodo3").text("Metodologia de trabajo");
 	$("#metodo4").text("Expandir");
+	$("#experitica1").text("Lenguajes y Herramientas");
+	$("#experitica2").text("Lenguajes ");
+	$("#experitica3").text("Herramientas");
+	
+	$("#experitica4").text("Base de datos / Cloud");
+	
 	}
 
 function myenglish() {
@@ -93,6 +99,12 @@ function myenglish() {
 	$("#metodo2").text("Scrum is an agile framework for managing knowledge work, with an emphasis on software development, although it has wide application in other fields and is slowly starting to be explored by traditional project teams more generally. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed stand-up meetings, called daily scrum");
 	$("#metodo3").text("Metodologia de trabajo");
 	$("#metodo4").text("See More");
+	$("#experitica1").text("Languages and Tools");
+	$("#experitica2").text("Languages");
+	
+	$("#experitica3").text("Tools");
+	
+	$("#experitica4").text("Database / Cloud");
 
 }
 
