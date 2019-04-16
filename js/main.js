@@ -51,6 +51,24 @@ function myspanish() {
 	$("#experitica3").text("Herramientas");
 	
 	$("#experitica4").text("Base de datos / Cloud");
+	$("#portfolioset3").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset4").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset5").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#portfolioset6").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset7").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset8").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#textmodal1").text("Desarrollo Web Con Wordpress");
+	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
+	$("#textmodal3").text("Año: 2019");
+	$("#textmodal4").text("Cliente: 2waySport");
+	$("#textmodal5").text("Categoria: Desarrollo Web");
+	$(".camcerrar").text("Cerrar");
+	$("#textmodal6").text("Desarrollo Web Con Wordpress");
+	$("#textmodal8").text("Año: 2019");
+	$("#textmodal9").text("Cliente: Evolve Miami Beach");
+	
+	$("#textmodal10").text("Desarrollo Web Con Wordpress");
+	
 	
 	}
 
@@ -105,6 +123,25 @@ function myenglish() {
 	$("#experitica3").text("Tools");
 	
 	$("#experitica4").text("Database / Cloud");
+	$("#portfolioset3").text("Web Development with Wordpress");
+	$("#portfolioset4").text("Web Development with Wordpress");
+	$("#portfolioset5").text("Web Development With HTML5 and JavaScript");
+	$("#portfolioset6").text("Web Development with Wordpress");
+	$("#portfolioset7").text("Web Development with Wordpress");
+	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
+	$("#textmodal1").text("Web Development with Wordpress");
+	
+	$("#textmodal2").text("Development of a website made in Wordpress for  2waysport company");
+	$("#textmodal3").text("Year: 2019");
+	$("#textmodal4").text("Client: 2waySport");
+	$("#textmodal5").text("Category: Web Development");
+	$(".camcerrar").text("Close");
+	$("#textmodal6").text("Web Development with Wordpress");
+	$("#textmodal7").text("The wordpress theme were updated, it was made desing changes and the site was optimized in order to be responsive.");
+	$("#textmodal8").text("Year: 2019");
+	$("#textmodal9").text("Client: Evolve Miami Beach");
+	$("#textmodal10").text("Category: Web Development");
+	
 
 }
 
