@@ -68,7 +68,26 @@ function myspanish() {
 	$("#textmodal9").text("Cliente: Evolve Miami Beach");
 	
 	$("#textmodal10").text("Desarrollo Web Con Wordpress");
+	$("#textmodal11").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#textmodal12").text("Desarrollo de una pagina web comercial para la empresa Possible.  Pagina multi-lenguaje y responsive.");
+	$("#textmodal13").text("Año: 2019");
+	$("#textmodal14").text("Cliente: Possible");
+	$("#textmodal15").text("Categoria: Desarrollo Web");
+	$("#textmodal16").text("Desarrollo Web Con Wordpress");
+	$("#textmodal17").text("Desarrollo web con gestión de usuarios,   hay dos tipos de usuarios: tarotistas y clientes.    Los clientes pueden solicitar sesiones de videochat y/o enviar preguntas via formulario para recibir respuestas via correo electronico.");
+	$("#textmodal18").text("Año: 2018");
+	$("#textmodal19").text("Cliente: Univero de Tarot");
+	$("#textmodal20").text("Categoria: Desarrollo Web");
+	$("#textmodal21").text("Desarrollo Web Con Wordpress");
+	$("#textmodal22").text("Año: 2018");
+	$("#textmodal23").text("Cliente: Stripperjobs");
+	$("#textmodal25").text("Pagina de contactos entre clubes y bailarinas.  Cada bailarina tiene su perfil y puede seleccionar los clubes con los cuales quiere contactar.  Optimizado para todo tipo de dispositivos");
 	
+	$("#textmodal26").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#textmodal27").text("Año: 2016");
+	$("#textmodal28").text("Cliente: Agropezim/Ubiot");
+	$("#textmodal29").text("Categoria: Desarrollo Web");
+	$("#textmodal30").text("Pagina web de presentacion sencilla para la empresa Agropezim.   Dando informacion relevante de la empresa y como contactarla");
 	
 	}
 
@@ -141,7 +160,31 @@ function myenglish() {
 	$("#textmodal8").text("Year: 2019");
 	$("#textmodal9").text("Client: Evolve Miami Beach");
 	$("#textmodal10").text("Category: Web Development");
+	$("#textmodal1").text("Category: Web Development");
+	$("#textmodal11").text("Web Development With HTML5 and JavaScript");
+	$("#textmodal12").text("Web project for Possible.  A Costa Rica insurance company. Multi-language website and responsive");
+	$("#textmodal13").text("Year: 2019");
+	$("#textmodal14").text("Client: Possible");
+	$("#textmodal15").text("Category: Web Development");
+	$("#textmodal16").text("Web Development with Wordpress");
+	$("#textmodal18").text("Year: 2018");
+	$("#textmodal19").text("Client: Univero de Tarot");
+	$("#textmodal20").text("Category: Web Development");
+	$("#textmodal17").text("Web development with user management, there are two types of users: tarotistas and customers. Clients can request videochat sessions and / or send questions via form to receive answers via email.");
 	
+	$("#textmodal21").text("Web Development with Wordpress");
+	$("#textmodal22").text("Year: 2018");
+	$("#textmodal23").text("Client: Stripperjobs");
+	$("#textmodal24").text("Web Development with Wordpress");
+	$("#textmodal25").text("Contacts page between clubs and dancers. Each dancer has her profile and can select the clubs she wants to contact. Optimized for all types of devices");
+	
+	
+	$("#textmodal26").text("Web Development With HTML5 and JavaScript");
+	$("#textmodal27").text("Year: 2016");
+	$("#textmodal28").text("Client: Agropezim/Ubiot");
+	$("#textmodal29").text("Category: Web Development");
+	
+	$("#textmodal30").text("Simple web page for the company Agropezim. Giving relevant information about the company and how to contact it");
 
 }
 
