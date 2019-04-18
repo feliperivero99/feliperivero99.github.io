@@ -1,8 +1,9 @@
 var userLang = navigator.language || navigator.userLanguage;
 
-console.log(userLang.split('-')[0]);
+
 
 function myspanish() {
+	Cookies.set("idiom", "es");
 	document.getElementById( 'flageng' ).style.display = 'block';
 	document.getElementById( 'flagspa' ).style.display = 'none';
 	$("#aboutli").text("Acerca");
@@ -94,7 +95,7 @@ function myspanish() {
 	}
 
 function myenglish() {
-
+    Cookies.set("idiom", "en");
 	document.getElementById( 'flageng' ).style.display = 'none';
 	document.getElementById( 'flagspa' ).style.display = 'block';
 	$("#aboutli").text("About");
@@ -192,15 +193,38 @@ function myenglish() {
 
 }
 
+
+
+
+
+
 $(document).ready(function() {
+	
+   console.log(Cookies.get("idiom"));
    
-   if(userLang.split('-')[0] == "es"){
-		myspanish();
+   if(Cookies.get("idiom")){
+		if(Cookies.get("idiom") == "es"){
+			myspanish();
+   
+		}else{
+			myenglish(); 
+   
+		}
    
    }else{
-	  myenglish(); 
+	    if(userLang.split('-')[0] == "es"){
+			myspanish();
+   
+		}else{
+			myenglish(); 
+   
+		}
    
    }
+   
+   
+   
+ 
    
    
    
