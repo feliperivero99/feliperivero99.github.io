@@ -21,9 +21,7 @@
 
 @media screen and (max-width: 770px) {
 	
-	#bandera {
-	padding-left: 48%;
-	} 
+	
 	
 	div#textometodo.col-md-6 {
 		    text-align: center;
@@ -40,6 +38,19 @@
 }
   
 }
+
+
+
+@media screen and (max-width: 765px) {
+	
+	#bandera {
+	padding-left: 48%;
+	} 
+	
+ 
+}
+
+
 
 @media screen and (max-width: 450px) {
 	ul.list-inline.quicklinks {
