@@ -88,6 +88,8 @@ function myspanish() {
 	$("#textmodal28").text("Cliente: Agropezim/Ubiot");
 	$("#textmodal29").text("Categoria: Desarrollo Web");
 	$("#textmodal30").text("Pagina web de presentacion sencilla para la empresa Agropezim.   Dando informacion relevante de la empresa y como contactarla");
+	$('.curriculumesp').css('display','block');
+	$('.curriculumeng').css('display','none');
 	
 	}
 
@@ -185,6 +187,8 @@ function myenglish() {
 	$("#textmodal29").text("Category: Web Development");
 	
 	$("#textmodal30").text("Simple web page for the company Agropezim. Giving relevant information about the company and how to contact it");
+	$('.curriculumesp').css('display','none');
+	$('.curriculumeng').css('display','block');
 
 }
 
