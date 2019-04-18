@@ -48,3 +48,14 @@ a.curriculumesp.ultrabutton{
 a.curriculumeng.ultrabutton{
 	width:100%;
 }
+ul.nav.navbar-nav.navbar-right{
+	    text-align: center;
+}
+
+#cuadro1{
+	display:block;
+}
+
+#cuadro2{
+	display:none;
+}
