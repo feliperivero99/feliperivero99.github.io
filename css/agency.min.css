@@ -72,3 +72,32 @@ ul.nav.navbar-nav.navbar-right{
     color: #fff;
     text-shadow: 2px 2px 11px #4C4C4C;
 }
+
+
+#header2 div#introlead.intro-lead-in{
+	background-color: rgba(101, 158, 241, 0.1);
+background: rgba(101, 158, 241, 0.1);
+color: rgba(101, 158, 241, 0.1);
+	color: white;
+    text-shadow: 1px 0px 19px #768189 !important;
+}
+
+#histoli2{
+	font-weight:bold;
+	text-shadow: 2px 2px 11px #4C4C4C;
+}
+
+section#paso1 div.row{
+	
+	margin-bottom: 3em;
+}
+
+section#paso2 div.row{
+	
+	margin-bottom: 3em;
+}
+
+section#paso3 div.row{
+	
+	margin-bottom: 3em;
+}
