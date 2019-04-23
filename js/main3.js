@@ -73,7 +73,17 @@ function myspanish() {
 	$("#textmodal43").text("Año: 2016");
 	$("#textmodal44").text("Cliente: Coproince");
 	$("#textmodal45").text("Categoria: Aplicación de escritorio");
-	$("#textmodal46").text("Categoria: Aplicación de escritorio");
+	$("#textmodal46").text("Aplicación de escritorio usando Velneo");
+	$("#textmodal47").text("Fui parte del equipo de desarrollo del software ERP para getion y administracion de empresas.");
+	$("#textmodal48").text("Año: 2012 - 2014");
+	$("#textmodal49").text("Cliente: ERPcontable");
+	$("#textmodal50").text("Categoria: Aplicación de escritorio");
+	$("#textmodal51").text("Aplicación de escritorio usando Velneo");
+	$("#textmodal52").text("Desarrollador lider y responsable de modulo de gestion del cliente CRM pertenciente del ERP de ERPcontable");
+	$("#textmodal53").text("Año: 2012 - 2014");
+	$("#textmodal54").text("Cliente: ERPcontable");
+	
+	$("#textmodal55").text("Categoria: Aplicación de escritorio");
 	
 	
 	}
@@ -155,6 +165,16 @@ function myenglish() {
 	$("#textmodal43").text("year: 2016");
 	$("#textmodal44").text("Client: Coproince");
 	$("#textmodal45").text("Category: Desktop Application");
+	$("#textmodal46").text("Desktop Application with Velneo");
+	$("#textmodal47").text("I was part of the ERP software development team for management and business administration");
+	$("#textmodal48").text("Year: 2012 - 2014");
+	$("#textmodal49").text("Client: ERPcontable");
+	$("#textmodal50").text("Category: Desktop Application");
+	$("#textmodal51").text("Desktop Application with Velneo");
+	$("#textmodal52").text("Lead developer and responsible for the CRM module for client management as part of the ERP software from ERPcontable company ");
+	$("#textmodal53").text("Year: 2012 - 2014");
+	$("#textmodal54").text("Client: ERPcontable");
+	$("#textmodal55").text("Category: Desktop Application");
 	
 	
 	
