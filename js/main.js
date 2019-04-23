@@ -137,7 +137,7 @@ function myenglish() {
 	$("#secthisto17").text("Be part of my history");
 	$("#metodo1").text("Scrum Methodology");
 	$("#metodo2").text("Scrum is an agile framework for managing knowledge work, with an emphasis on software development, although it has wide application in other fields and is slowly starting to be explored by traditional project teams more generally. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called sprints, no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute time-boxed stand-up meetings, called daily scrum");
-	$("#metodo3").text("Metodologia de trabajo");
+	$("#metodo3").text("Work Methodology");
 	$("#metodo4").text("See More");
 	$("#experitica1").text("Languages and Tools");
 	$("#experitica2").text("Languages");
@@ -151,6 +151,7 @@ function myenglish() {
 	$("#portfolioset6").text("Web Development with Wordpress");
 	$("#portfolioset7").text("Web Development with Wordpress");
 	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
+	$("#portfolioset10").text("See More");
 	$("#textmodal1").text("Web Development with Wordpress");
 	
 	$("#textmodal2").text("Development of a website made in Wordpress for  2waysport company");
