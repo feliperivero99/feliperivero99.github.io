@@ -115,3 +115,19 @@ section#paso3 div.row{
     color: #fff;
     text-shadow: 2px 2px 20px #37363D;
 }
+
+a#metodo4.ultrabutton{
+	
+	margin-top: 3em !important;
+	width:100% !important;
+	padding-left:4em;
+	padding-right:4em;
+}
+
+a#portfolioset10.ultrabutton{
+	
+	margin-top: 3em !important;
+	width:100% !important;
+	padding-left:4em;
+	padding-right:4em;
+}
