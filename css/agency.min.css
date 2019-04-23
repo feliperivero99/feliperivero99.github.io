@@ -101,3 +101,17 @@ section#paso3 div.row{
 	
 	margin-bottom: 3em;
 }
+
+#header3 {
+    background-image: url(../img/13767.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px 20px #37363D;
+}
