@@ -8,14 +8,14 @@ function myspanish() {
 	document.getElementById( 'flagspa' ).style.display = 'none';
 	$("#aboutli").text("Acerca");
 	$("#servicesli").text("Servicios");
-	$("#portli").text("Portafolios");
+	$("#portli").text("Portafolio");
 	$("#histoli").text("Historia");
 	$("#introlead").text("Bienvenidos a mi Estudio!");
 	$("#introhead").text("Es un placer");
 	$("#tellmore").text("Dime Más");
-	$("#sectheadabout").text("Acerca");
+	$("#sectheadabout").text("Acerca de mi");
 	$("#sectheadabout2").text("Información Personal");
-	$("#textoabout").text("En lo profesional, ingeniero en informatica.  Siempre me he movido entre el desarrollo (web y de aplicaciones) como la ciencia de datos.  Mi pasatiempo es el de escribir, me gusta investigar sobre temas que me llaman la atencion y redactar pequeños ensayos. A veces, escribo historias de ficción");
+	$("#textoabout").text("En lo profesional, ingeniero en informática.  Siempre me he movido entre el desarrollo (web y de aplicaciones) como la ciencia de datos.  Mi pasatiempo es el de escribir, me gusta investigar sobre temas que me llaman la atención y redactar pequeños ensayos. A veces, escribo historias de ficción");
     $("#setservicesh2").text("Servicios");
 	$("#setservicesh3").text("Mis perfiles laborales");
 	$("#setservicesh4").text("Desarrollador Web");
@@ -36,7 +36,7 @@ function myspanish() {
 	$("#secthisto8").text("A finales de 2014 decidir cambiar de perfil laboral, enfocando a trabajar en desarrollo web utilizando herramientas como Ruby on Rails, Bootstrap, etc.");
 	$("#secthisto9").text("Evolucionando: Agropezim");
 	$("#secthisto10").text("Empece  una nueva aventura,  ejerciendo mas el aspecto gerencial de la carrera al encargarme de supervisar la implementacion de la herramienta  Odoo dentro de la organización. Ademas empece adentrarme en el mundo de la Data Sciences");
-	$("#secthisto11").text("La Actualidad: Ubiot");
+	$("#secthisto11").text("Ubiot");
 	$("#secthisto12").text("Ubiot Siendo una subsidiaria de Agropezim,  mi perfil ha estado enfocado exclusivamente en el trabajo como cientifico de datos (data scientist). Ocasionalmente participando en proyectos de desarrollo web");
 	$("#secthisto13").text("Ubiot");
 	$("#secthisto14").text("Empece  una nueva aventura,  ejerciendo mas el aspecto gerencial de la carrera al encargarme de supervisar la implementacion de la herramienta  Odoo dentro de la organización. Ademas empece adentrarme en el mundo de la Data Sciences");
