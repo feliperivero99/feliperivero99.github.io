@@ -20,7 +20,7 @@ function myspanish() {
 	$("#setservicesh3").text("Mis perfiles laborales");
 	$("#setservicesh4").text("Desarrollador Web");
 	$("#setservicesh5").text("Durante mis primeros años en el mundo profesional trabaje como desarrollador frontend y backend. Trabajando con: HTML, JavaScript, CSS, Php, Ruby on Rails,Yii Framework,bootstrap, Angular.js. ");
-	$("#setservicesh6").text("Desarrollador Web");
+	$("#setservicesh6").text("Cientifico de Datos");
 	$("#setservicesh7").text("Como científico de datos trabajo mezclando estadisticas, informatica y mucha creatividad. En este apartado he trabajado con R y Python");
 	$("#setservicesh8").text("Creador de Contenidos");
 	$("#setservicesh9").text("Me gusta escribir como programar,  Por ello lleno mis blogs personales con mis escritos y codigos de programas que he realizado para compartirlos.");
@@ -39,7 +39,7 @@ function myspanish() {
 	$("#secthisto11").text("Ubiot");
 	$("#secthisto12").text("Ubiot Siendo una subsidiaria de Agropezim,  mi perfil ha estado enfocado exclusivamente en el trabajo como cientifico de datos (data scientist). Ocasionalmente participando en proyectos de desarrollo web");
 	$("#secthisto13").text("Ubiot");
-	$("#secthisto14").text("Empece  una nueva aventura,  ejerciendo mas el aspecto gerencial de la carrera al encargarme de supervisar la implementacion de la herramienta  Odoo dentro de la organización. Ademas empece adentrarme en el mundo de la Data Sciences");
+	$("#secthisto14").text("Una vez mas me enfoque al desarrollo web, fui el desarrollador principal del sitio web Rentadvisor, pagina dedicada al alquiler de inmuebles en Chile");
 	$("#secthisto15").text("Desarrollo Web - Wordpress");
 	$("#secthisto16").text("Dedicado al desarrollo web con wordpress y ruby on rails freelance realizando mas de 6 proyectos durante todo el año.  Fui responsable del desarrollo completo y de cada fase del proyecto de cada pagina web en los cuales participe");
 	$("#secthisto17").text("Se parte de mi Historia");
