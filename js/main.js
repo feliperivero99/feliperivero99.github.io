@@ -56,7 +56,7 @@ function myspanish() {
 	$("#portfolioset4").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset5").text("Desarrollo Web Con HTML5 y JavaScript");
 	$("#portfolioset6").text("Desarrollo Web Con Wordpress");
-	$("#portfolioset7").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset7").text("Desarrollo Web Con Java y Spring Tool Suite");
 	$("#portfolioset8").text("Desarrollo Web Con HTML5 y JavaScript");
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
 	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
@@ -149,7 +149,7 @@ function myenglish() {
 	$("#portfolioset4").text("Web Development with Wordpress");
 	$("#portfolioset5").text("Web Development With HTML5 and JavaScript");
 	$("#portfolioset6").text("Web Development with Wordpress");
-	$("#portfolioset7").text("Web Development with Wordpress");
+	$("#portfolioset7").text("Web Development with Java and Spring Tool suite");
 	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
 	$("#portfolioset10").text("See More");
 	$("#textmodal1").text("Web Development with Wordpress");
