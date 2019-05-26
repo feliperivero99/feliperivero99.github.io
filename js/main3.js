@@ -91,6 +91,11 @@ function myspanish() {
 	$("#textmodal59").text("Categoria: Desarrollo Web");
 	$("#textmodal60").text("Desarrollo Web Con HTML5 y JavaScript");
 	
+	$("#portfolioset62").text("Desarrollo Web Con Wordpress");
+	
+	$("#portfolioset63").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset64").text("Desarrollo Web Con Java y Spring Tools Suite");
+	
 	
 	}
 
@@ -117,6 +122,10 @@ function myenglish() {
 	$("#portfolioset11").text("Desktop Application with Java");	
 	$("#portfolioset12").text("Desktop Application with Velneo");
 	$("#portfolioset13").text("Desktop Application with Velneo");
+	
+	$("#portfolioset62").text("Web Development with Wordpress");
+	$("#portfolioset63").text("Web Development with Wordpress");
+	$("#portfolioset64").text("Web Development with Java and Spring Tools Suite");
 	
 	$("#textmodal1").text("Web Development with Wordpress");
 	
