@@ -96,6 +96,8 @@ function myspanish() {
 	$("#portfolioset63").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset64").text("Desarrollo Web Con Java y Spring Tools Suite");
 	
+	$("#textmodal66").text("Desarrollo Web Con Wordpress");
+	
 	
 	}
 
@@ -196,6 +198,8 @@ function myenglish() {
 	
 	$("#textmodal59").text("Category: Web Development");
 	$("#textmodal60").text("Web Development With HTML5 and JavaScript");
+	
+	$("#textmodal66").text("Web Development with Wordpress");
 	
 	
 	
