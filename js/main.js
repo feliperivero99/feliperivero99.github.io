@@ -72,12 +72,12 @@ function myspanish() {
 	$("#textmodal11").text("Desarrollo Web Con Wordpress");
 	$("#textmodal12").text("Parte del grupo de desarrollo encargo en la modificación y actualizacion de contenido de la pagina.  Se actualizaron los datos y se agrego propiedades responsive");
 	$("#textmodal13").text("Año: 2019");
-	$("#textmodal14").text("Cliente: Possible");
+	$("#textmodal14").text("Cliente: BarcelonaUS");
 	$("#textmodal15").text("Categoria: Desarrollo Web");
 	$("#textmodal16").text("Desarrollo Web Con Wordpress");
-	$("#textmodal17").text("Desarrollo web con gestión de usuarios,   hay dos tipos de usuarios: tarotistas y clientes.    Los clientes pueden solicitar sesiones de videochat y/o enviar preguntas via formulario para recibir respuestas via correo electronico.");
-	$("#textmodal18").text("Año: 2018");
-	$("#textmodal19").text("Cliente: Univero de Tarot");
+	$("#textmodal17").text("Miembro del grupo de desarrollo de la landing page para la empresa The MIC of America. Mi rol fue desarrollador front end, con algunas responsabilidades como backend");
+	$("#textmodal18").text("Año: 2019");
+	$("#textmodal19").text("Cliente: The Mic of America");
 	$("#textmodal20").text("Categoria: Desarrollo Web");
 	$("#textmodal21").text("Desarrollo Web Con Wordpress");
 	$("#textmodal22").text("Año: 2018");
@@ -168,13 +168,13 @@ function myenglish() {
 	$("#textmodal11").text("Web Development with Wordpress");
 	$("#textmodal12").text("Part of the development group commissioned in the modification and updating of the content of the page. The data was updated and responsive properties were added");
 	$("#textmodal13").text("Year: 2019");
-	$("#textmodal14").text("Client: Possible");
+	$("#textmodal14").text("Client: BarcelonaUS");
 	$("#textmodal15").text("Category: Web Development");
 	$("#textmodal16").text("Web Development with Wordpress");
-	$("#textmodal18").text("Year: 2018");
-	$("#textmodal19").text("Client: Univero de Tarot");
+	$("#textmodal18").text("Year: 2019");
+	$("#textmodal19").text("Client: The Mic of America");
 	$("#textmodal20").text("Category: Web Development");
-	$("#textmodal17").text("Web development with user management, there are two types of users: tarotistas and customers. Clients can request videochat sessions and / or send questions via form to receive answers via email.");
+	$("#textmodal17").text("Member of the development group of the landing page for the company The MIC of America. My role was front end developer, with some responsibilities as a backend");
 	
 	$("#textmodal21").text("Web Development with Wordpress");
 	$("#textmodal22").text("Year: 2018");
