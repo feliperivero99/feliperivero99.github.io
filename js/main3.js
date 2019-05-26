@@ -84,6 +84,11 @@ function myspanish() {
 	$("#textmodal54").text("Cliente: ERPcontable");
 	
 	$("#textmodal55").text("Categoria: Aplicación de escritorio");
+	$("#textmodal56").text("Desarrollador principal de la pagina para Shokworks. Se hizo un diseño responsive utilizando, bootstrap, css y jquery ");
+	$("#textmodal57").text("Año: 2019");
+	$("#textmodal58").text("Cliente: Shokworks");
+	
+	$("#textmodal59").text("Categoria: Desarrollo Web");
 	
 	
 	}
@@ -175,6 +180,12 @@ function myenglish() {
 	$("#textmodal53").text("Year: 2012 - 2014");
 	$("#textmodal54").text("Client: ERPcontable");
 	$("#textmodal55").text("Category: Desktop Application");
+	$("#textmodal56").text("Main developer of the page for Shokworks. A responsive design was made using, bootstrap, css and jquery");
+	$("#textmodal57").text("Year: 2019");
+	$("#textmodal58").text("Client: Shokworks");
+	
+	$("#textmodal59").text("Category: Web Development");
+	
 	
 	
 	
