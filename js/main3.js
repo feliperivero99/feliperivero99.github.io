@@ -89,6 +89,7 @@ function myspanish() {
 	$("#textmodal58").text("Cliente: Shokworks");
 	
 	$("#textmodal59").text("Categoria: Desarrollo Web");
+	$("#textmodal60").text("Desarrollo Web Con HTML5 y JavaScript");
 	
 	
 	}
@@ -185,6 +186,8 @@ function myenglish() {
 	$("#textmodal58").text("Client: Shokworks");
 	
 	$("#textmodal59").text("Category: Web Development");
+	$("#textmodal60").text("Web Development With HTML5 and JavaScript");
+	
 	
 	
 	
