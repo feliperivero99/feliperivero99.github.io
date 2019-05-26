@@ -79,10 +79,10 @@ function myspanish() {
 	$("#textmodal18").text("Año: 2019");
 	$("#textmodal19").text("Cliente: The Mic of America");
 	$("#textmodal20").text("Categoria: Desarrollo Web");
-	$("#textmodal21").text("Desarrollo Web Con Wordpress");
-	$("#textmodal22").text("Año: 2018");
-	$("#textmodal23").text("Cliente: Stripperjobs");
-	$("#textmodal25").text("Pagina de contactos entre clubes y bailarinas.  Cada bailarina tiene su perfil y puede seleccionar los clubes con los cuales quiere contactar.  Optimizado para todo tipo de dispositivos");
+	$("#textmodal21").text("Desarrollo Web Con Java y Spring Tool Suite");
+	$("#textmodal22").text("Año: 2019");
+	$("#textmodal23").text("Cliente: Mexperience");
+	$("#textmodal25").text("Miembro del grupo de desarrollo del CMS MEXperiencia para la administracion de clientes. Mi role principal fue de desarrollador backend usando el framework Spring Tool Suite");
 	
 	$("#textmodal26").text("Desarrollo Web Con HTML5 y JavaScript");
 	$("#textmodal27").text("Año: 2016");
@@ -176,11 +176,11 @@ function myenglish() {
 	$("#textmodal20").text("Category: Web Development");
 	$("#textmodal17").text("Member of the development group of the landing page for the company The MIC of America. My role was front end developer, with some responsibilities as a backend");
 	
-	$("#textmodal21").text("Web Development with Wordpress");
-	$("#textmodal22").text("Year: 2018");
-	$("#textmodal23").text("Client: Stripperjobs");
-	$("#textmodal24").text("Web Development with Wordpress");
-	$("#textmodal25").text("Contacts page between clubs and dancers. Each dancer has her profile and can select the clubs she wants to contact. Optimized for all types of devices");
+	$("#textmodal21").text("Web Development with Java and Spring Tool suite");
+	$("#textmodal22").text("Year: 2019");
+	$("#textmodal23").text("Client: Mexperience");
+	$("#textmodal24").text("Web Development with Java");
+	$("#textmodal25").text("Member of the CMS MEXperience development group for client management. My main role was developer backend using the Spring Tool Suite framework");
 	
 	
 	$("#textmodal26").text("Web Development With HTML5 and JavaScript");
