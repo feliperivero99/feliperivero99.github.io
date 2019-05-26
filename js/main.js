@@ -85,10 +85,10 @@ function myspanish() {
 	$("#textmodal25").text("Miembro del grupo de desarrollo del CMS MEXperiencia para la administracion de clientes. Mi role principal fue de desarrollador backend usando el framework Spring Tool Suite");
 	
 	$("#textmodal26").text("Desarrollo Web Con HTML5 y JavaScript");
-	$("#textmodal27").text("Año: 2016");
-	$("#textmodal28").text("Cliente: Agropezim/Ubiot");
+	$("#textmodal27").text("Año: 2019");
+	$("#textmodal28").text("Cliente: Shokworks");
 	$("#textmodal29").text("Categoria: Desarrollo Web");
-	$("#textmodal30").text("Pagina web de presentacion sencilla para la empresa Agropezim.   Dando informacion relevante de la empresa y como contactarla");
+	$("#textmodal30").text("Desarrollador principal de la pagina para Shokworks. Se hizo un diseño responsive utilizando, bootstrap, css y jquery ");
 	$('.curriculumesp').css('display','block');
 	$('.curriculumeng').css('display','none');
 	
@@ -184,11 +184,11 @@ function myenglish() {
 	
 	
 	$("#textmodal26").text("Web Development With HTML5 and JavaScript");
-	$("#textmodal27").text("Year: 2016");
-	$("#textmodal28").text("Client: Agropezim/Ubiot");
+	$("#textmodal27").text("Year: 2019");
+	$("#textmodal28").text("Client: Shokworks");
 	$("#textmodal29").text("Category: Web Development");
 	
-	$("#textmodal30").text("Simple web page for the company Agropezim. Giving relevant information about the company and how to contact it");
+	$("#textmodal30").text("Main developer of the page for Shokworks. A responsive design was made using, bootstrap, css and jquery");
 	$('.curriculumesp').css('display','none');
 	$('.curriculumeng').css('display','block');
 
