@@ -97,7 +97,10 @@ function myspanish() {
 	$("#portfolioset64").text("Desarrollo Web Con Java y Spring Tools Suite");
 	
 	$("#textmodal66").text("Desarrollo Web Con Wordpress");
-	
+	$("#textmodal67").text("Parte del grupo de desarrollo encargo en la modificación y actualizacion de contenido de la pagina.  Se actualizaron los datos y se agrego propiedades responsive");
+	$("#textmodal68").text("Año: 2019");
+	$("#textmodal69").text("Cliente: BarcelonaUS");
+	$("#textmodal70").text("Categoria: Desarrollo Web");
 	
 	}
 
@@ -200,7 +203,10 @@ function myenglish() {
 	$("#textmodal60").text("Web Development With HTML5 and JavaScript");
 	
 	$("#textmodal66").text("Web Development with Wordpress");
-	
+	$("#textmodal67").text("Part of the development group commissioned in the modification and updating of the content of the page. The data was updated and responsive properties were added");
+	$("#textmodal68").text("Year: 2019");
+	$("#textmodal69").text("Client: BarcelonaUS");
+	$("#textmodal70").text("Category: Web Development");
 	
 	
 	
