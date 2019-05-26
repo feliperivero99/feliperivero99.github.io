@@ -69,8 +69,8 @@ function myspanish() {
 	$("#textmodal9").text("Cliente: Evolve Miami Beach");
 	
 	$("#textmodal10").text("Desarrollo Web Con Wordpress");
-	$("#textmodal11").text("Desarrollo Web Con HTML5 y JavaScript");
-	$("#textmodal12").text("Desarrollo de una pagina web comercial para la empresa Possible.  Pagina multi-lenguaje y responsive.");
+	$("#textmodal11").text("Desarrollo Web Con Wordpress");
+	$("#textmodal12").text("Parte del grupo de desarrollo encargo en la modificación y actualizacion de contenido de la pagina.  Se actualizaron los datos y se agrego propiedades responsive");
 	$("#textmodal13").text("Año: 2019");
 	$("#textmodal14").text("Cliente: Possible");
 	$("#textmodal15").text("Categoria: Desarrollo Web");
@@ -165,8 +165,8 @@ function myenglish() {
 	$("#textmodal9").text("Client: Evolve Miami Beach");
 	$("#textmodal10").text("Category: Web Development");
 	$("#textmodal1").text("Category: Web Development");
-	$("#textmodal11").text("Web Development With HTML5 and JavaScript");
-	$("#textmodal12").text("Web project for Possible.  A Costa Rica insurance company. Multi-language website and responsive");
+	$("#textmodal11").text("Web Development with Wordpress");
+	$("#textmodal12").text("Part of the development group commissioned in the modification and updating of the content of the page. The data was updated and responsive properties were added");
 	$("#textmodal13").text("Year: 2019");
 	$("#textmodal14").text("Client: Possible");
 	$("#textmodal15").text("Category: Web Development");
