@@ -101,6 +101,20 @@ function myspanish() {
 	$("#textmodal68").text("Año: 2019");
 	$("#textmodal69").text("Cliente: BarcelonaUS");
 	$("#textmodal70").text("Categoria: Desarrollo Web");
+	$("#textmodal71").text("Desarrollo Web Con Wordpress");
+	$("#textmodal72").text("Miembro del grupo de desarrollo de la landing page para la empresa The MIC of America. Mi rol fue desarrollador front end, con algunas responsabilidades como backend");
+	$("#textmodal73").text("Año: 2019");
+	$("#textmodal74").text("Cliente: The Mic of America");
+	$("#textmodal75").text("Categoria: Desarrollo Web");
+	
+	$("#textmodal76").text("Desarrollo Web Con Java y Spring Tool Suite");
+	
+	$("#textmodal77").text("Miembro del grupo de desarrollo del CMS MEXperiencia para la administracion de clientes. Mi role principal fue de desarrollador backend usando el framework Spring Tool Suite");
+	
+		$("#textmodal78").text("Año: 2019");
+	$("#textmodal79").text("Cliente: Mexperience");
+	$("#textmodal80").text("Desarrollo con Java");
+	
 	
 	}
 
@@ -207,6 +221,18 @@ function myenglish() {
 	$("#textmodal68").text("Year: 2019");
 	$("#textmodal69").text("Client: BarcelonaUS");
 	$("#textmodal70").text("Category: Web Development");
+	$("#textmodal71").text("Web Development with Wordpress");
+	$("#textmodal72").text("Member of the development group of the landing page for the company The MIC of America. My role was front end developer, with some responsibilities as a backend");
+	$("#textmodal73").text("Year: 2019");
+	$("#textmodal74").text("Client: The Mic of America");
+	$("#textmodal75").text("Category: Web Development");
+	
+	$("#textmodal76").text("Web Development with Java");
+	$("#textmodal77").text("Member of the CMS MEXperience development group for client management. My main role was developer backend using the Spring Tool Suite framework");
+		$("#textmodal78").text("Year: 2019");
+	$("#textmodal79").text("Client: Mexperience");
+	$("#textmodal80").text("Web Development with Java");
+	
 	
 	
 	
