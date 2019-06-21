@@ -58,6 +58,7 @@ function myspanish() {
 	$("#portfolioset6").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset7").text("Desarrollo Web Con Java y Spring Tool Suite");
 	$("#portfolioset8").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#portfolioset9").text("Desarrollo Web Con Php y JavaScript");
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
 	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
 	$("#textmodal3").text("Año: 2019");
@@ -89,6 +90,21 @@ function myspanish() {
 	$("#textmodal28").text("Cliente: Shokworks");
 	$("#textmodal29").text("Categoria: Desarrollo Web");
 	$("#textmodal30").text("Desarrollador principal de la pagina para Shokworks. Se hizo un diseño responsive utilizando, bootstrap, css y jquery ");
+	
+	$("#textmodal31").text("Desarrollo Web Con Php y JavaScript");
+	$("#textmodal32").text("Pagina tipo Landing Page para la empresa Valle Nevado, pagina de marketing y envio de promociones.  El cliente rellena un formulario y una encuesta, para recibir un correo con un codigo de descuento");
+	
+	$("#textmodal33").text("Año: 2019");
+	$("#textmodal34").text("Cliente: Valle nevado");
+	$("#textmodal35").text("Categoria: Desarrollo Web");
+	
+	$("#textmodal36").text("Desarrollo Web Con Wordpress");
+	
+	
+	$("#textmodal37").text("Pagina del PSG para Estados Unidos, pagina enfocada en proporcionar informacion sobre  academias de futbol para niños y adolescentes.  Mi rol ha sido el de actualizar y hacer cambios en las pagina");
+	$("#textmodal38").text("Año: 2019");
+	$("#textmodal39").text("Cliente: PSG academy");
+	$("#textmodal40").text("Categoria: Desarrollo Web");
 	$('.curriculumesp').css('display','block');
 	$('.curriculumeng').css('display','none');
 	
@@ -151,6 +167,8 @@ function myenglish() {
 	$("#portfolioset6").text("Web Development with Wordpress");
 	$("#portfolioset7").text("Web Development with Java and Spring Tool suite");
 	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
+	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
+	$("#portfolioset9").text("Web Development With Php and JavaScript");
 	$("#portfolioset10").text("See More");
 	$("#textmodal1").text("Web Development with Wordpress");
 	
@@ -189,6 +207,19 @@ function myenglish() {
 	$("#textmodal29").text("Category: Web Development");
 	
 	$("#textmodal30").text("Main developer of the page for Shokworks. A responsive design was made using, bootstrap, css and jquery");
+	
+	$("#textmodal31").text("Web Development With Php and JavaScript");
+	$("#textmodal32").text("Landing Page for the company Valle Nevado, marketing page and discount promotions. The client completes a form and a survey, to receive an email with a discount code if buy any services to the company");
+	$("#textmodal33").text("Year: 2019");
+	$("#textmodal34").text("Client: Valle nevado");
+	$("#textmodal35").text("Category: Web Development");
+	$("#textmodal37").text("PSG website for the United States, page focused on providing information on soccer academies for children and adolescents. My role has been to update and make changes in the pages");
+	
+	
+	$("#textmodal36").text("Web Development with Wordpress");
+	$("#textmodal38").text("Year: 2019");
+	$("#textmodal39").text("Client: PSG academy");
+	$("#textmodal40").text("Category: Web Development");
 	$('.curriculumesp').css('display','none');
 	$('.curriculumeng').css('display','block');
 
