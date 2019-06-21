@@ -25,6 +25,8 @@ function myspanish() {
 	$("#portfolioset11").text("Aplicación de escritorio realizado con Java");
 	$("#portfolioset12").text("Aplicación de escritorio realizado con  Velneo");
 	$("#portfolioset13").text("Aplicación de escritorio realizado con  Velneo");
+		$("#portfolioset15").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset14").text("Desarrollo Web Con Php y JavaScript");
 	
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
 	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
@@ -114,6 +116,20 @@ function myspanish() {
 		$("#textmodal78").text("Año: 2019");
 	$("#textmodal79").text("Cliente: Mexperience");
 	$("#textmodal80").text("Desarrollo con Java");
+		$("#textmodal81").text("Desarrollo Web Con Php y JavaScript");
+	$("#textmodal82").text("Pagina tipo Landing Page para la empresa Valle Nevado, pagina de marketing y envio de promociones.  El cliente rellena un formulario y una encuesta, para recibir un correo con un codigo de descuento");
+	
+	$("#textmodal83").text("Año: 2019");
+	$("#textmodal84").text("Cliente: Valle nevado");
+	$("#textmodal85").text("Categoria: Desarrollo Web");
+	$("#textmodal86").text("Desarrollo Web Con Wordpress");
+	
+	
+	$("#textmodal87").text("Pagina del PSG para Estados Unidos, pagina enfocada en proporcionar informacion sobre  academias de futbol para niños y adolescentes.  Mi rol ha sido el de actualizar y hacer cambios en las pagina");
+	$("#textmodal88").text("Año: 2019");
+	$("#textmodal89").text("Cliente: PSG academy");
+	$("#textmodal90").text("Categoria: Desarrollo Web");
+	
 	
 	
 	}
@@ -141,6 +157,8 @@ function myenglish() {
 	$("#portfolioset11").text("Desktop Application with Java");	
 	$("#portfolioset12").text("Desktop Application with Velneo");
 	$("#portfolioset13").text("Desktop Application with Velneo");
+		$("#portfolioset15").text("Web Development with Wordpress");
+	$("#portfolioset14").text("Web Development With Php and JavaScript");
 	
 	$("#portfolioset62").text("Web Development with Wordpress");
 	$("#portfolioset63").text("Web Development with Wordpress");
@@ -232,6 +250,18 @@ function myenglish() {
 		$("#textmodal78").text("Year: 2019");
 	$("#textmodal79").text("Client: Mexperience");
 	$("#textmodal80").text("Web Development with Java");
+	$("#textmodal81").text("Web Development With Php and JavaScript");
+	$("#textmodal82").text("Landing Page for the company Valle Nevado, marketing page and discount promotions. The client completes a form and a survey, to receive an email with a discount code if buy any services to the company");
+	$("#textmodal83").text("Year: 2019");
+	$("#textmodal84").text("Client: Valle nevado");
+	$("#textmodal85").text("Category: Web Development");
+	$("#textmodal87").text("PSG website for the United States, page focused on providing information on soccer academies for children and adolescents. My role has been to update and make changes in the pages");
+	
+	
+	$("#textmodal86").text("Web Development with Wordpress");
+	$("#textmodal88").text("Year: 2019");
+	$("#textmodal89").text("Client: PSG academy");
+	$("#textmodal90").text("Category: Web Development");
 	
 	
 	
