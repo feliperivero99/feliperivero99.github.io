@@ -56,9 +56,9 @@ function myspanish() {
 	$("#portfolioset4").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset5").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset6").text("Desarrollo Web Con Wordpress");
-	$("#portfolioset7").text("Desarrollo Web Con Java y Spring Tool Suite");
-	$("#portfolioset8").text("Desarrollo Web Con HTML5 y JavaScript");
-	$("#portfolioset9").text("Desarrollo Web Con Php y JavaScript");
+	$("#portfolioset7").text("Desarrollo Web Con Laravel");
+	$("#portfolioset8").text("Desarrollo Web Con Laravel");
+	$("#portfolioset9").text("Desarrollo Web Con Laravel");
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
 	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
 	$("#textmodal3").text("Año: 2019");
@@ -165,10 +165,9 @@ function myenglish() {
 	$("#portfolioset4").text("Web Development with Wordpress");
 	$("#portfolioset5").text("Web Development with Wordpress");
 	$("#portfolioset6").text("Web Development with Wordpress");
-	$("#portfolioset7").text("Web Development with Java and Spring Tool suite");
-	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
-	$("#portfolioset8").text("Web Development With HTML5 and JavaScript");
-	$("#portfolioset9").text("Web Development With Php and JavaScript");
+	$("#portfolioset7").text("Web Development with Laravel");
+	$("#portfolioset8").text("Web Development With Laravel");
+	$("#portfolioset9").text("Web Development With Laravel");
 	$("#portfolioset10").text("See More");
 	$("#textmodal1").text("Web Development with Wordpress");
 	
