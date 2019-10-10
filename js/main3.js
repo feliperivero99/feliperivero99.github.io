@@ -27,6 +27,11 @@ function myspanish() {
 	$("#portfolioset13").text("Aplicación de escritorio realizado con  Velneo");
 		$("#portfolioset15").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset14").text("Desarrollo Web Con Php y JavaScript");
+	$("#portfolioset16").text("Desarrollo Web Con Laravel");
+	$("#portfolioset17").text("Desarrollo Web Con Wordpress");
+	$("#portfolioset18").text("Desarrollo Web Con Laravel");
+	
+	$("#portfolioset19").text("Desarrollo Web Con Laravel");
 	
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
 	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
@@ -129,6 +134,33 @@ function myspanish() {
 	$("#textmodal88").text("Año: 2019");
 	$("#textmodal89").text("Cliente: PSG academy");
 	$("#textmodal90").text("Categoria: Desarrollo Web");
+	$("#textmodal91").text("Desarrollo Web Con Laravel");
+	$("#textmodal92").text("Sistema de control de inscripciones y evaluaciones para cursos en linea,  se controla los procesos de evaluacion, clases y asistenciade alumnos, genera estadisticas");
+	$("#textmodal93").text("Año: 2019");
+	$("#textmodal94").text("Cliente: Valle Grande");
+
+	
+	$("#textmodal95").text("Categoria: Desarrollo Web");
+	
+	$("#textmodal96").text("Desarrollo Web Con Wordpress");
+	$("#textmodal97").text("Desarrollo de una pagina web para la empresa LivingGreen, especializada en servicios de limpieza de inmuebles");
+	$("#textmodal98").text("Año: 2019");
+	$("#textmodal99").text("Cliente: LivingGreen");
+	$("#textmodal100").text("Categoria: Desarrollo Web");
+	
+	
+	$("#textmodal101").text("Desarrollo Web Con Laravel");
+	$("#textmodal102").text("Sistema de control de inscripciones y evaluaciones para cursos en linea,  se controla los procesos de evaluacion, clases y asistenciade alumnos, genera estadisticas");
+	
+	$("#textmodal103").text("Año: 2019");
+	$("#textmodal104").text("Cliente: Protege");
+	$("#textmodal105").text("Categoria: Desarrollo Web");
+	
+	$("#textmodal106").text("Desarrollo Web Con Laravel");
+	$("#textmodal107").text("Parte del grupo de desarrollo encargado de crear un sistema de manejo de campañas de marketing y ventas a clientes en linea  para la compañia Santa Rita");
+	$("#textmodal108").text("Año: 2019");
+	$("#textmodal109").text("Cliente: Santa Rita");
+	$("#textmodal110").text("Categoria: Desarrollo Web");
 	
 	
 	
@@ -157,8 +189,13 @@ function myenglish() {
 	$("#portfolioset11").text("Desktop Application with Java");	
 	$("#portfolioset12").text("Desktop Application with Velneo");
 	$("#portfolioset13").text("Desktop Application with Velneo");
-		$("#portfolioset15").text("Web Development with Wordpress");
+	$("#portfolioset15").text("Web Development with Wordpress");	
 	$("#portfolioset14").text("Web Development With Php and JavaScript");
+	$("#portfolioset16").text("Web Development with Laravel");
+	
+	$("#portfolioset17").text("Web Development with Wordpress");
+	$("#portfolioset18").text("Web Development with Laravel");
+	$("#portfolioset19").text("Web Development with Laravel");
 	
 	$("#portfolioset62").text("Web Development with Wordpress");
 	$("#portfolioset63").text("Web Development with Wordpress");
@@ -262,10 +299,29 @@ function myenglish() {
 	$("#textmodal88").text("Year: 2019");
 	$("#textmodal89").text("Client: PSG academy");
 	$("#textmodal90").text("Category: Web Development");
+	$("#textmodal91").text("Web Development with Laravel");
+	$("#textmodal92").text("Registration and evaluation control system for online courses, the evaluation processes, classes and student attendance are managed, statistics are generated");
+	$("#textmodal93").text("Year: 2019");
+	$("#textmodal94").text("Client: Valle Grande");
 	
+	$("#textmodal95").text("Category: Web Development");
+	$("#textmodal96").text("Web Development with Wordpress");
+	$("#textmodal97").text("Development of a website for LivingGreenn, specialized in real estate cleaning services");
+	$("#textmodal98").text("Year: 2019");
+	$("#textmodal99").text("Client: LivingGreen");
+	$("#textmodal100").text("Category: Web Development");
 	
+	$("#textmodal101").text("Web Development With Laravel");
+	$("#textmodal102").text("Registration and evaluation control system for online courses, the evaluation processes, classes and student attendance are managed, statistics are generated");
+	$("#textmodal103").text("Year: 2019");
+	$("#textmodal104").text("Client: Protege");
+	$("#textmodal105").text("Category: Web Development");
 	
-	
+	$("#textmodal106").text("Web Development with Laravel");
+	$("#textmodal107").text("Part of the development group in charge of creating a marketing and sales campaign management system for online customers for the Santa Rita company");
+	$("#textmodal108").text("Year: 2019");
+	$("#textmodal109").text("Client: Santa Rita");
+	$("#textmodal110").text("Category: Web Development");
 	
 	
 	}
