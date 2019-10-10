@@ -54,15 +54,14 @@ function myspanish() {
 	$("#experitica4").text("Base de datos / Cloud");
 	$("#portfolioset3").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset4").text("Desarrollo Web Con Wordpress");
-	$("#portfolioset5").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset6").text("Desarrollo Web Con Wordpress");
 	$("#portfolioset7").text("Desarrollo Web Con Laravel");
 	$("#portfolioset8").text("Desarrollo Web Con Laravel");
 	$("#portfolioset9").text("Desarrollo Web Con Laravel");
 	$("#textmodal1").text("Desarrollo Web Con Wordpress");
-	$("#textmodal2").text("Desarrollo de una pagina para la empresa 2waysport realizada en Wordpres y con contenido dinamico.");
+	$("#textmodal2").text("Desarrollo de una pagina web para la empresa LivingGreen, especializada en servicios de limpieza de inmuebles");
 	$("#textmodal3").text("Año: 2019");
-	$("#textmodal4").text("Cliente: 2waySport");
+	$("#textmodal4").text("Cliente: LivingGreen");
 	$("#textmodal5").text("Categoria: Desarrollo Web");
 	$(".camcerrar").text("Cerrar");
 	$("#textmodal6").text("Desarrollo Web Con Wordpress");
@@ -70,10 +69,10 @@ function myspanish() {
 	$("#textmodal9").text("Cliente: Evolve Miami Beach");
 	
 	$("#textmodal10").text("Desarrollo Web Con Wordpress");
-	$("#textmodal11").text("Desarrollo Web Con Wordpress");
-	$("#textmodal12").text("Parte del grupo de desarrollo encargo en la modificación y actualizacion de contenido de la pagina.  Se actualizaron los datos y se agrego propiedades responsive");
+	$("#textmodal11").text("Desarrollo Web Con Laravel");
+	$("#textmodal12").text("Parte del grupo de desarrollo encargado de crear un sistema de manejo de campañas de marketing y ventas a clientes en linea  para la compañia Santa Rita");
 	$("#textmodal13").text("Año: 2019");
-	$("#textmodal14").text("Cliente: BarcelonaUS");
+	$("#textmodal14").text("Cliente: Santa Rita");
 	$("#textmodal15").text("Categoria: Desarrollo Web");
 	$("#textmodal16").text("Desarrollo Web Con Wordpress");
 	$("#textmodal17").text("Miembro del grupo de desarrollo de la landing page para la empresa The MIC of America. Mi rol fue desarrollador front end, con algunas responsabilidades como backend");
@@ -85,17 +84,17 @@ function myspanish() {
 	$("#textmodal23").text("Cliente: Mexperience");
 	$("#textmodal25").text("Miembro del grupo de desarrollo del CMS MEXperiencia para la administracion de clientes. Mi role principal fue de desarrollador backend usando el framework Spring Tool Suite");
 	
-	$("#textmodal26").text("Desarrollo Web Con HTML5 y JavaScript");
+	$("#textmodal26").text("Desarrollo Web Con Laravel");
 	$("#textmodal27").text("Año: 2019");
-	$("#textmodal28").text("Cliente: Shokworks");
+	$("#textmodal28").text("Cliente: Valle Grande");
 	$("#textmodal29").text("Categoria: Desarrollo Web");
-	$("#textmodal30").text("Desarrollador principal de la pagina para Shokworks. Se hizo un diseño responsive utilizando, bootstrap, css y jquery ");
+	$("#textmodal30").text("Utilizando laravel se creo un sistema de admin para la actualización de la pagina, ademas, se modifico el estilo entero del sitio web");
 	
-	$("#textmodal31").text("Desarrollo Web Con Php y JavaScript");
-	$("#textmodal32").text("Pagina tipo Landing Page para la empresa Valle Nevado, pagina de marketing y envio de promociones.  El cliente rellena un formulario y una encuesta, para recibir un correo con un codigo de descuento");
+	$("#textmodal31").text("Desarrollo Web Con Laravel");
+	$("#textmodal32").text("Sistema de control de inscripciones y evaluaciones para cursos en linea,  se controla los procesos de evaluacion, clases y asistenciade alumnos, genera estadisticas");
 	
 	$("#textmodal33").text("Año: 2019");
-	$("#textmodal34").text("Cliente: Valle nevado");
+	$("#textmodal34").text("Cliente: Protege");
 	$("#textmodal35").text("Categoria: Desarrollo Web");
 	
 	$("#textmodal36").text("Desarrollo Web Con Wordpress");
@@ -163,7 +162,6 @@ function myenglish() {
 	$("#experitica4").text("Database / Cloud");
 	$("#portfolioset3").text("Web Development with Wordpress");
 	$("#portfolioset4").text("Web Development with Wordpress");
-	$("#portfolioset5").text("Web Development with Wordpress");
 	$("#portfolioset6").text("Web Development with Wordpress");
 	$("#portfolioset7").text("Web Development with Laravel");
 	$("#portfolioset8").text("Web Development With Laravel");
@@ -171,9 +169,9 @@ function myenglish() {
 	$("#portfolioset10").text("See More");
 	$("#textmodal1").text("Web Development with Wordpress");
 	
-	$("#textmodal2").text("Development of a website made in Wordpress for  2waysport company");
+	$("#textmodal2").text("Development of a website for LivingGreenn, specialized in real estate cleaning services");
 	$("#textmodal3").text("Year: 2019");
-	$("#textmodal4").text("Client: 2waySport");
+	$("#textmodal4").text("Client: LivingGreen");
 	$("#textmodal5").text("Category: Web Development");
 	$(".camcerrar").text("Close");
 	$("#textmodal6").text("Web Development with Wordpress");
@@ -182,10 +180,10 @@ function myenglish() {
 	$("#textmodal9").text("Client: Evolve Miami Beach");
 	$("#textmodal10").text("Category: Web Development");
 	$("#textmodal1").text("Category: Web Development");
-	$("#textmodal11").text("Web Development with Wordpress");
-	$("#textmodal12").text("Part of the development group commissioned in the modification and updating of the content of the page. The data was updated and responsive properties were added");
+	$("#textmodal11").text("Web Development with Laravel");
+	$("#textmodal12").text("Part of the development group in charge of creating a marketing and sales campaign management system for online customers for the Santa Rita company");
 	$("#textmodal13").text("Year: 2019");
-	$("#textmodal14").text("Client: BarcelonaUS");
+	$("#textmodal14").text("Client: Santa Rita");
 	$("#textmodal15").text("Category: Web Development");
 	$("#textmodal16").text("Web Development with Wordpress");
 	$("#textmodal18").text("Year: 2019");
@@ -200,17 +198,17 @@ function myenglish() {
 	$("#textmodal25").text("Member of the CMS MEXperience development group for client management. My main role was developer backend using the Spring Tool Suite framework");
 	
 	
-	$("#textmodal26").text("Web Development With HTML5 and JavaScript");
+	$("#textmodal26").text("Web Development With Laravel");
 	$("#textmodal27").text("Year: 2019");
-	$("#textmodal28").text("Client: Shokworks");
+	$("#textmodal28").text("Client: Valle Grande");
 	$("#textmodal29").text("Category: Web Development");
 	
-	$("#textmodal30").text("Main developer of the page for Shokworks. A responsive design was made using, bootstrap, css and jquery");
+	$("#textmodal30").text("Using laravel, an admin system was created for updating the page, and the entire style of the website was modified.");
 	
-	$("#textmodal31").text("Web Development With Php and JavaScript");
-	$("#textmodal32").text("Landing Page for the company Valle Nevado, marketing page and discount promotions. The client completes a form and a survey, to receive an email with a discount code if buy any services to the company");
+	$("#textmodal31").text("Web Development With Laravel");
+	$("#textmodal32").text("Registration and evaluation control system for online courses, the evaluation processes, classes and student attendance are managed, statistics are generated");
 	$("#textmodal33").text("Year: 2019");
-	$("#textmodal34").text("Client: Valle nevado");
+	$("#textmodal34").text("Client: Protege");
 	$("#textmodal35").text("Category: Web Development");
 	$("#textmodal37").text("PSG website for the United States, page focused on providing information on soccer academies for children and adolescents. My role has been to update and make changes in the pages");
 	
