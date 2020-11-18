@@ -26,3 +26,12 @@ For professional contact you can write me in:
 # About the theme
 
 Is free to use for everybody.
+
+
+# Can I use this template?
+
+
+Yes of course, is totally free.
+
+But you can help me with a little donations of bitcoins here: 3JJjuYD7San3Z2ENXBAbuAxEbegjw8zV3Z
+Thank you.
